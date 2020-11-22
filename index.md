@@ -31,7 +31,7 @@ author: Loïc Boyer
 Pour rappel :
 
 - $\sigma=\frac{1}{\lambda}$ 	autrement dit, le nombre d'onde (en m^-1^) est l'inverse de la longueur d'onde.
-- $\lambda=\frac{c}{f}$ 	avec $c$ la la célérité ou vitesse de propagation de l'onde dans le milieu qu'elle traverse.
+- $\lambda=\frac{c}{f}$ 	avec $c$ la célérité ou vitesse de propagation de l'onde dans le milieu qu'elle traverse.
 
 ## Mise en contexte et reformulation
 
@@ -64,11 +64,11 @@ Pour parvenir à une courbe de répartition spectrale d'une source lumineuse, on
 
    Comme son nom l’indique, elle exploite le concept d’espace de Fourier. Si conceptuellement elle est moins intuitive, elle offre deux avantages importants comparativement aux méthodes dispersives : l’avantage de Fellgett[^4] et de Jacquinot[^5]. Ceux-ci permettent de mesurer rapidement des spectres avec une excellente résolution et un bon rapport signal sur bruit. 
 
-   La spectroscopie par transformée de Fourier est la technique de choix pour mesurer un spectre infrarouge, de l’infrarouge lointain (100 cm^−1^ ) jusqu’à environ 10 000 cm^−1^. C’est pourquoi l’acronyme anglais [FTIR](####Interféromètre de Michelson (FTIR)) est souvent utilisé pour référer à cette technique. 
+   La spectroscopie par transformée de Fourier est la technique de choix pour mesurer un spectre infrarouge, de l’infrarouge lointain (100 cm^−1^ ) jusqu’à environ 10 000 cm^−1^. C’est pourquoi l’acronyme anglais [FTIR](####Interféromètre de Michelson (FTIR)) est souvent utilisé pour se référer à cette technique. 
 
    Le principe de mesure ne restreint pas l’application de la STF à l’infrarouge, mais ses avantages comparativement aux méthodes dispersives, comme les spectromètres à réseau, sont moins évidents à des longueurs d’onde de moins de λ = 1 µm . ![spectre](index.assets/spectre.png)
 
-3. En réalité, il existe aussi une 3^ème^ famille qui est la **spectrométrie par filtrage**. Cependant elle n'est plus utilisée pour de l'analyse spectrale de la lumière à ma connaissance. (à vérifier)
+3. En réalité, il existe aussi une 3^ème^ famille qui est la **spectrométrie par filtrage**. Cependant elle n'est plus utilisée pour de l'analyse spectrale de la lumière à ma connaissance.
 
    <img src="index.assets/image-20201110173217077.png" alt="image-20201110173217077" style="zoom:33%;" />
 
@@ -97,7 +97,7 @@ Ces rayons lumineux parallèles passent au travers d'un **prisme**.  <img src="i
 
 La **lunette de visée** peut être ici remplacée par un **capteur** (photodiode ou CCD) mesurant l'*intensité lumineuse*. La détermination des *longueurs d'ondes mesurées* est possible en montant tous ces éléments sur un **goniomètre** (de gônia « angle » et metron « mesure, évaluation ») servant à effectuer des *mesures d’angles*.
 
-##### Pouvoir de résolution
+##### Pouvoir de résolution :framed_picture:
 
 Le terme précision n'est pas rigoureux et correspond en fait au **pouvoir de résolution (ou résolvance)** définit comme :
 
@@ -137,7 +137,7 @@ On peux utiliser une  **« barrette »  CCD**  composée  d’une  « mosaïque 
 
 ### Montages basés sur la [spectrométrie de Fourier](##Différentes approches théoriques)
 
-#### Interféromètre de Michelson (FTIR) 
+#### Interféromètre de Michelson (FTIR) :microscope:
 
 Animation[^8] :![ftsprinc](index.assets/ftsprinc.gif)
 
@@ -145,7 +145,7 @@ Schéma :
 
 <img src="index.assets/Michelson.JPG" alt="Michelson" style="zoom: 50%;" />
 
-La mesure de l’intensité d’un point donné sur le détecteur en fonction de la différence de marche porte le nom d’interférogramme f(Δ=2dcos(θ)). Celui-ci est directement relié au spectre de la source f(σ) par une transformée de Fourier.
+La mesure de l’intensité d’un point donné sur le détecteur en fonction de la différence de marche porte le nom d’interférogramme f(Δ=2dcos(θ)). Celui-ci est directement relié au spectre de la source f(σ) par une transformée de Fourier. :computer:
 
 <img src="index.assets/FTIR-interferogram.svg" alt="FTIR-interferogram" style="zoom:40%;" />
 
@@ -155,7 +155,7 @@ La mesure de l’intensité d’un point donné sur le détecteur en fonction de
 
 ##### Pouvoir de résolution dans le visible
 
-le rapport signal sur bruit limite la STF dans le visible, malgré une excellente résolution spectrale. Dans le visible, les spectromètres à réseaux offrent un rapport signal sur bruit plus favorable.
+Le rapport signal sur bruit limite la STF dans le visible, malgré une excellente résolution spectrale. Dans le visible, les spectromètres à réseaux offrent un rapport signal sur bruit plus favorable.
 
 [^8]: source : https://media4.obspm.fr/public/ressources_lu/pages_fourier/impression.html
 
@@ -195,7 +195,7 @@ La bande de fréquence sur laquelle le spectre optique obtenu peut être analys�
 | Découpe boîte finale | <img src="index.assets/Boite1.jpg" alt="Boite1" style="zoom:25%;" /> | <img src="index.assets/montage2.jpg" alt="montage2" style="zoom:20%;" /> | <img src="index.assets/montage3.jpg" alt="montage3" style="zoom:20%;" /> |
 |                      | <img src="index.assets/montage0.jpg" alt="montage0" style="zoom:28%;" /> | <img src="index.assets/montage4.jpg" alt="montage4" style="zoom:28%;" /> | <img src="index.assets/montage1.jpg" alt="montage1" style="zoom:25%;" /> |
 
-### Vidéo de la prise de photos pour différentes sources lumineuses
+### Vidéo de la prise de photos pour différentes sources lumineuses :camera_flash:
 
 <iframe width="315" height="560" src="https://www.youtube-nocookie.com/embed/zatkKv_Dmtg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -211,7 +211,7 @@ Pour le traitement d'image les opérations suivantes ont été nécessaires :
 
 <img src="index.assets/image-20201121184446371.png" alt="image-20201121184446371" style="zoom:50%;" />
 
-#### Lampe halogène
+#### Lampe halogène :bulb:
 
 ![Spectre_Halogene](index.assets/Spectre_Halogene.JPG)
 
