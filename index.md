@@ -169,7 +169,7 @@ Montage pratique[^10] :
 
 <img src="index.assets/FP3.jpg" alt="FP3" style="zoom:70%;" />
 
-Pour une source polychromatique la figure d'interférence observable est telle que :
+Figure d'interférence observable pour une source polychromatique :
 
 <img src="index.assets/Fabry_Perot_Inter_Poly.JPG" alt="Fabry_Perot_Inter_Poly" style="zoom:33%;" />
 
@@ -222,3 +222,9 @@ On remarque un spectre qui couvre une large plage de longueurs d'ondes, avec une
 ![Spectre_LED](index.assets/Spectre_LED.JPG)
 
 La répartition spectrale confirme qu'il s'agit d'une LED de couleur chaude comme on peut le voir dans la [vidéo](###Vidéo de la prise de photos pour différentes sources lumineuses).
+
+---------
+
+Version : 22/11/2020
+
+© Loïc Boyer
