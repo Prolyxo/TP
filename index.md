@@ -190,14 +190,14 @@ La bande de fréquence sur laquelle le spectre optique obtenu peut être analys�
 
 |        Étapes        |                                                              |                        Illustrations                         |                                                              |
 | :------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|     Découpe DVD      | <img src="index.assets/CD1.jpg" alt="CD1" style="zoom:05%;" /> | <img src="index.assets/CD3.jpg" alt="CD3" style="zoom:05%;" /> | <img src="index.assets/CD2.jpg" alt="CD2" style="zoom:05%;" /> |
-| Mise en place réseau | <img src="index.assets/reseau0.jpg" alt="reseau0" style="zoom:05%;" /> | <img src="index.assets/reseau1.jpg" alt="reseau1" style="zoom:15%;" /> |                                                              |
-| Découpe boîte finale | <img src="index.assets/Boite1.jpg" alt="Boite1" style="zoom:25%;" /> | <img src="index.assets/montage2.jpg" alt="montage2" style="zoom:08%;" /> | <img src="index.assets/montage3.jpg" alt="montage3" style="zoom:08%;" /> |
-|                      | <img src="index.assets/montage0.jpg" alt="montage0" style="zoom:08%;" /> | <img src="index.assets/montage4.jpg" alt="montage4" style="zoom:09%;" /> | <img src="index.assets/montage1.jpg" alt="montage1" style="zoom:07%;" /> |
+|     Découpe DVD      | <img src="index.assets/CD1.jpg" alt="CD1" style="zoom:40%;" /> | <img src="index.assets/CD3.jpg" alt="CD3" style="zoom:28%;" /> | <img src="index.assets/CD2.jpg" alt="CD2" style="zoom:30%;" /> |
+| Mise en place réseau | <img src="index.assets/reseau0.jpg" alt="reseau0" style="zoom:30%;" /> | <img src="index.assets/reseau1.jpg" alt="reseau1" style="zoom:28%;" /> |                                                              |
+| Découpe boîte finale | <img src="index.assets/Boite1.jpg" alt="Boite1" style="zoom:25%;" /> | <img src="index.assets/montage2.jpg" alt="montage2" style="zoom:20%;" /> | <img src="index.assets/montage3.jpg" alt="montage3" style="zoom:20%;" /> |
+|                      | <img src="index.assets/montage0.jpg" alt="montage0" style="zoom:28%;" /> | <img src="index.assets/montage4.jpg" alt="montage4" style="zoom:28%;" /> | <img src="index.assets/montage1.jpg" alt="montage1" style="zoom:25%;" /> |
 
 ### Vidéo de la prise de photos pour différentes sources lumineuses
 
-<iframe src="https://drive.google.com/file/d/1e5ZzKWv9Wk5QTqjMGlTDDMn-mI_zlA3k/preview" width="640" height="480"></iframe>
+<iframe width="315" height="560" src="https://www.youtube-nocookie.com/embed/zatkKv_Dmtg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Exploitation des photos de spectres
 
