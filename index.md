@@ -199,7 +199,7 @@ La bande de fréquence sur laquelle le spectre optique obtenu peut être analys�
 
 <iframe width="315" height="560" src="https://www.youtube-nocookie.com/embed/zatkKv_Dmtg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Exploitation des photos de spectres
+### Exploitation des photos de spectres[^11]
 
 #### Lampe Fluo-compacte
 
@@ -222,6 +222,8 @@ On remarque un spectre qui couvre une large plage de longueurs d'ondes, avec une
 ![Spectre_LED](index.assets/Spectre_LED.JPG)
 
 La répartition spectrale confirme qu'il s'agit d'une LED de couleur chaude comme on peut le voir dans la [vidéo](###Vidéo de la prise de photos pour différentes sources lumineuses).
+
+[^11]: L'intégralité des spectres présentés sont disponibles librement sur mon compte public lab @RaceESWC https://spectralworkbench.org/profile/raceeswc
 
 ---------
 
