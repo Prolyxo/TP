@@ -225,6 +225,28 @@ La répartition spectrale confirme qu'il s'agit d'une LED de couleur chaude comm
 
 [^11]: L'intégralité des spectres présentés sont disponibles librement sur mon compte public lab @RaceESWC https://spectralworkbench.org/profile/raceeswc
 
+## Résumé Visuel
+
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5fd2a7be34487c74a6db03bd" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+
+## Version PDF
+
+[Cliquez ici pour accéder au rapport en PDF et le télécharger](https://app.box.com/s/wk896c6hpb8ca4asezem4of2po1zn9bc)
+
+## Formulaire de Contact
+
+<form name="Contact" method="POST" data-netlify="true" action="/#mini-projet-optique-magright">
+  <p>
+    <label>Nom : <input type="text" name="name" /></label>   
+  </p>
+  <p>
+    <label>Message : <textarea name="message"></textarea></label>
+  </p>
+  <p>
+    <button type="submit">Envoyer</button>
+  </p>
+</form>
+
 ---------
 
 Version : 22/11/2020
