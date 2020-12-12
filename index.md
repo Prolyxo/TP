@@ -249,6 +249,6 @@ La répartition spectrale confirme qu'il s'agit d'une LED de couleur chaude comm
 
 ---------
 
-Version : 22/11/2020
+Version : 12/12/2020
 
 © Loïc Boyer
